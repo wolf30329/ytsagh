@@ -1,8 +1,8 @@
 {
-  "name": "nodejs",
+  "name": "my-app",
   "version": "1.0.0",
   "description": "nodejs",
-  "author": "",
+  "author": "audrey",
   "repository": "",
   "license": "MIT",
   "private": false,
